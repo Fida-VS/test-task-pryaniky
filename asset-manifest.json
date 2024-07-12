@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-pryaniky/static/css/main.e6c13ad2.css",
+    "main.js": "/test-task-pryaniky/static/js/main.d01f0693.js",
+    "index.html": "/test-task-pryaniky/index.html",
+    "main.e6c13ad2.css.map": "/test-task-pryaniky/static/css/main.e6c13ad2.css.map",
+    "main.d01f0693.js.map": "/test-task-pryaniky/static/js/main.d01f0693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d01f0693.js"
+  ]
+}
