@@ -67,10 +67,10 @@ export const Main = () => {
 						justifyContent: 'center'}}><Typography sx={{marginTop: '7rem', justifyContent: 'space-between'}} variant="h5">Статьи не найдены</Typography></Container>
 				)}
 			</Container>
-			{isOpen && <PostForm setIsOpen={setIsOpen} />}
+			{isOpen && <PostForm  setIsOpen={setIsOpen} />}
 		</Container>
 	
 ): (
-	<Navigate to="/login" />
+	<Navigate to="https://github.com/Fida-VS/test-task-pryaniky/login" />
 )
 };
