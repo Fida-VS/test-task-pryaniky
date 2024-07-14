@@ -58,7 +58,7 @@ export const Authorization = () => {
 
 	
 	if (token) {
-		return <Navigate to="https://github.com/Fida-VS/test-task-pryaniky" />;
+		return <Navigate to="https://fida-vs.github.io/test-task-pryaniky/" />;
 	} else {
 	return (
 		<Container sx={{

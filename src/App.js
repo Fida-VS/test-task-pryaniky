@@ -25,8 +25,8 @@ function App() {
     <div className="App">
       <>
         <Routes>
-          <Route exact  path="https://github.com/Fida-VS/test-task-pryaniky" element={<Main />} />
-          <Route exact  path="https://github.com/Fida-VS/test-task-pryaniky/login" element={<Authorization />} />
+          <Route exact  path="https://fida-vs.github.io/test-task-pryaniky/" element={<Main />} />
+          <Route exact  path="https://fida-vs.github.io/test-task-pryaniky/login" element={<Authorization />} />
           <Route path="*" element={<Error>Такая страница не существует</Error>} />
         </Routes>
       </>
