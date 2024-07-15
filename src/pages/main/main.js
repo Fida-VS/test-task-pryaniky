@@ -71,6 +71,6 @@ export const Main = () => {
 		</Container>
 	
 ): (
-	<Navigate to="https://fida-vs.github.io/test-task-pryaniky/login" />
+	<Navigate to="/login" />
 )
 };
